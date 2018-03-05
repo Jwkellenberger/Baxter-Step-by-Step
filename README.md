@@ -1,5 +1,5 @@
 # Baxter-Step-by-Step
-A step by step walk through and introduction to using Baxter robot.
+A step by step walk-through and introduction to using Baxter robot.
 
 The links for Baxter SDK and Gazeebo simulation environment are to Rethink Robotics setup instructions.
 

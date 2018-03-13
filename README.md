@@ -11,5 +11,10 @@ The links for Baxter SDK and Gazeebo simulation environment are to Rethink Robot
 - For simulation users only, stop at "Customize the baxter.sh script"
 - [Baxter Simulation Gazeebo Environment download - Rethink Robotics](http://sdk.rethinkrobotics.com/wiki/Simulator_Installation)
 
-#### Projects
+#### Projects:
 - [Baxter Project 1: Moving Right Arm](https://github.com/Jwkellenberger/Baxter-Step-by-Step/blob/master/Baxter-Project1.ipynb)
+- [Baxter Project 2: Moving Arms, and More!](https://github.com/Jwkellenberger/Baxter-Step-by-Step/blob/master/Baxter-Project2.ipynb)
+
+
+#### Ready To Use Python Scripts:
+- [Baxter Project 1: As .py]

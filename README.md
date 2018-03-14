@@ -18,3 +18,4 @@ The links for Baxter SDK and Gazeebo simulation environment are to Rethink Robot
 
 #### Ready To Use Python Scripts:
 - [Baxter Project 1: ROS ready](https://github.com/Jwkellenberger/Baxter-Step-by-Step/blob/master/Baxter1.py)
+- [Baxter Project 2: ROS ready](https://github.com/Jwkellenberger/Baxter-Step-by-Step/blob/master/Baxter2.py)
